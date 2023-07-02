@@ -1,2 +1,2 @@
-# SCS-2204-_Tutorial04
+# SCS-2204_Tutorial04
 Scala
